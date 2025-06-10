@@ -33,8 +33,7 @@ export default function Home() {
 
 
   <link rel="icon" href="/favicon.ico" />
-    <meta name="google-site-verification" content="1r0zh-Hacbnj9Hdy0QwTVMIj3EiERzgYRdtQXItvIJA" />
-
+<meta name="google-site-verification" content="R7_VcN9px3xuab8W5XYmeNbfWMO_porUUj6MDl1SFec" />
 </head>
 
       <div className="">
